@@ -1,1 +1,1 @@
-# This is a simulated linux kernel at runtime using the existing linux kernel and system calls givin by the linux manual. It's capable of executing any linux command given to it except for piping. Written in C / C++.
+## This is a simulated linux kernel at runtime using the existing linux kernel and system calls givin by the linux manual. It's capable of executing any linux command given to it except for piping. Written in C / C++.
